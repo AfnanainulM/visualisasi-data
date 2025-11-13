@@ -1,4 +1,4 @@
-# Praktikum 1 - Visualisasi Data
+# Tugas Praktikum - Visualisasi Data
 
 Tugas praktikum mata kuliah **Visualisasi Data**.
 
