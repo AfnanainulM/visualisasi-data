@@ -10,9 +10,12 @@ product_B_sales = [5,10,8,15,18,20,22,30,25,35,40,45]
 #layout streamlit
 st.title("Visualisasi Penjualan Produk")
 st.sidebar.header("Pengaturan Grafik")
-option = st.sidebar.selectbox
-("Pilih Tipe Visualisasi", ("Single Line Plot", 
-"Multiple & Customization", "Jenis Garis Menunjukkan Tren", "Subplot"))
+option = st.sidebar.selectbox("Pilih Tipe Visualisasi",
+                              ("Single Line Plot", 
+                               "Multiple & Customization",
+                               "Jenis Garis Menunjukkan Tren",
+                               "Subplot"))
+
 
 # identitas Kelompok
 st.caption("PRAKTIKUM 3 - matplotlib")
